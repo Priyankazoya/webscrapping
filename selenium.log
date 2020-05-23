@@ -1,0 +1,75 @@
+2020-05-22 22:00:02,807 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:32:19,552 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:32:19,579 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:35:43,625 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:35:43,625 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:35:43,636 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:35:43,636 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:37:30,576 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:37:30,576 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:37:30,576 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:37:30,592 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:37:30,592 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:37:30,592 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:40:56,500 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:40:56,500 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:40:56,500 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:40:56,500 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //button[text()="ACCEPT"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()="ACCEPT"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:15,180 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //input[@value="Submit"] - Message: element click intercepted: Element <input id="skeletonForm:submitBtn" type="submit" name="skeletonForm:submitBtn" value="Submit" class="button small radius"> is not clickable at point (1121, 648). Other element would receive the click: <div class="onetrust-pc-dark-filter fade-in" style="z-index:2147483645"></div>
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:15,180 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //input[@value="Submit"] - Message: element click intercepted: Element <input id="skeletonForm:submitBtn" type="submit" name="skeletonForm:submitBtn" value="Submit" class="button small radius"> is not clickable at point (1121, 648). Other element would receive the click: <div class="onetrust-pc-dark-filter fade-in" style="z-index:2147483645"></div>
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:15,180 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //input[@value="Submit"] - Message: element click intercepted: Element <input id="skeletonForm:submitBtn" type="submit" name="skeletonForm:submitBtn" value="Submit" class="button small radius"> is not clickable at point (1121, 648). Other element would receive the click: <div class="onetrust-pc-dark-filter fade-in" style="z-index:2147483645"></div>
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:15,180 - Inputhandler - INFO - Unable to find the Xpath mouseClick - //input[@value="Submit"] - Message: element click intercepted: Element <input id="skeletonForm:submitBtn" type="submit" name="skeletonForm:submitBtn" value="Submit" class="button small radius"> is not clickable at point (1121, 648). Other element would receive the click: <div class="onetrust-pc-dark-filter fade-in" style="z-index:2147483645"></div>
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:16,296 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:16,296 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:16,296 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
+2020-05-23 11:41:16,296 - Inputhandler - INFO - Unable to find the Xpath in readText  - //*[@id="skeletonForm:j_idt17"] - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="skeletonForm:j_idt17"]"}
+  (Session info: chrome=81.0.4044.138)
+
